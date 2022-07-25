@@ -17,6 +17,8 @@
 // }
 
 // displayPosts();
+
+// My Solution:
 /*
  * Programming Quiz: Using Let and Const (1-1)
  */
