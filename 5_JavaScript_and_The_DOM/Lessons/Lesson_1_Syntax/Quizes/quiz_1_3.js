@@ -40,3 +40,8 @@ const colors = `List of Colors
 
 console.log(colors);
 
+
+// Given Solution:
+// const [one, , , two, , , , three] = things;
+
+
