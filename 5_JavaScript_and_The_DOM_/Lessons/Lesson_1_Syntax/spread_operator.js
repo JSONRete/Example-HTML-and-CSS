@@ -22,3 +22,9 @@ const vegetables = ["corn", "potatoes", "carrots"];
 const produce = [...fruits, ...vegetables];
 
 console.log(produce);
+
+// Given Solution:
+
+// produce = [...fruits, ...vegetables]
+
+// console.log(produce);
