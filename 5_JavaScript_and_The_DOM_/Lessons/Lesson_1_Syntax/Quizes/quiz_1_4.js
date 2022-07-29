@@ -37,3 +37,10 @@ for (const day of days) {
   console.log(caps);
 }
 
+// Given Solution:
+
+// for (const day of days) {
+//     var upperDay = day.charAt(0).toUpperCase() + day.slice(1);
+//     console.log(upperDay);
+// }
+
