@@ -32,9 +32,9 @@ const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 
 
 // your code goes here
 for (const day of days) {
-   const caps = day.charAt(0).toUpperCase() + day.slice(1);{
-  }
-  console.log(caps);
+    const caps = day.charAt(0).toUpperCase() + day.slice(1);{
+}
+console.log(caps);
 }
 
 // Given Solution:
